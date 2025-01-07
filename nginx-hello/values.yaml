@@ -20,6 +20,6 @@ htmlContent: |
     </head>
     <body>
         <h1>Hello, World!</h1>
-        <p>This is served by Nginx using a Helm chart.</p>
+        <p>This is served by eayar.</p>
     </body>
     </html>
