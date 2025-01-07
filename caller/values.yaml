@@ -1,0 +1,8 @@
+image:
+  repository: curlimages/curl
+  tag: "latest"
+  pullPolicy: IfNotPresent
+
+replicaCount: 1
+
+nginxServicePort: 80
